@@ -1,1 +1,0 @@
-/usr/bin/cc "CMakeFiles/lab-begin.dir/src/main.c.o" -o lab-begin  -lm 
